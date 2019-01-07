@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="140" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon cx="149.5" cy="129.5" edge="0" fill="#0000ff" id="svg_6" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="150.5" cy="141.5" edge="0.666667" fill="#0000ff" id="svg_7" orient="x" points="151.06710053890137,141.5 150.6752437040397,142.03934466291662 150.0412060265096,141.83333333333334 150.0412060265096,141.16666666666666 150.6752437040397,140.96065533708338 151.06710053890137,141.5 " shape="regularPoly" sides="5" stroke-width="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="170.5" cy="133.5" edge="0" fill="#0000ff" id="svg_8" orient="x" points="170.5,133.5 170.5,133.5 170.5,133.5 170.5,133.5 170.5,133.5 170.5,133.5 " shape="regularPoly" sides="5" stroke-width="5" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="163.5" cy="143.5" edge="0" fill="#0000ff" id="svg_9" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="none"/>
+  <path d="m7.622523,33.173854l24.895795,-23.431333l35.20841,0l24.895795,23.431333l0,33.137328l-24.895795,23.431335l-35.20841,0l-24.895795,-23.431335l0,-33.137328z" fill="#3f7f00" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <ellipse cx="49.5" cy="49.999999" fill="#7f7f00" id="svg_11" rx="25" ry="39.500001" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="49.5" xml:space="preserve" y="56.5">J-A-S-I</text>
+ </g>
+</svg>
